@@ -54,4 +54,4 @@ This project is licensed under the **MIT License**.
 For any queries or suggestions, reach out to us at **[smaasu01@gmail.com](mailto:smaasu01@gmail.com)** or visit **[SMAASU Corporation](https://g.co/kgs/VvQB8W9)**.
 
 ---
-🌟 **Enjoy seamless data cleaning and password security with Data Duster!** 🌟
+🌟 **Enjoy seamless data cleaning and thanks to SMAASU-I !** 🌟
