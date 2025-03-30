@@ -51,7 +51,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 💬 Contact
-For any queries or suggestions, reach out to us at **[your-email@example.com](mailto:your-email@example.com)** or visit **[SMAASU Corporation](https://smaasu.com)**.
+For any queries or suggestions, reach out to us at **[smaasu01@gmail.com](mailto:smaasu01@gmail.com)** or visit **[SMAASU Corporation](https://g.co/kgs/VvQB8W9)**.
 
 ---
 🌟 **Enjoy seamless data cleaning and password security with Data Duster!** 🌟
