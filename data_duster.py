@@ -29,7 +29,7 @@ if tabs == "DataSet Dusting":
         if file_ext == ".csv":
             df = pd.read_csv(file)
         elif file_ext == ".xlsx":
-            df = pd.read_xls(file)
+            df = pd.read_excel(file)
         else:
             st.write(f"Error {file_ext} is not supported 🤪")
         
