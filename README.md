@@ -14,15 +14,6 @@
 - 🔄 **Format Conversion** – Convert files into different formats effortlessly.
 - 💾 **Download Processed Data** – Get the refined dataset instantly.
 
-## 🔑 Password Strength Checker
-Along with data processing, **Data Duster** also features a **Password Strength Checker** that:
-- ✅ Checks for **basic security requirements** (uppercase, lowercase, numeric, special characters).
-- ✅ **Evaluates strength** (Weak, Moderate, Strong).
-- ✅ **Estimates crack time** using brute-force calculations.
-- ✅ Provides **suggestions for unmet security criteria**.
-- ✅ Offers **strong password recommendations** if needed.
-- ✅ Shares **security best practices**.
-
 ## 🛠️ Installation
 To run **Data Duster** locally, follow these steps:
 
