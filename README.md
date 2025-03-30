@@ -1,7 +1,7 @@
 
 # 🧹 Data Duster – The Ultimate Data Cleaning & Processing Tool
 
-![Data Duster](https://github.com/smaasui/SMAASU/blob/main/logo.png)
+![Data Duster](https://github.com/smaasui/Data-Duster/Data_Duster_Logo.png)
 
 ## 🚀 Introduction
 **Data Duster** is an intelligent web application developed by **SMAASU Corporation** to simplify data cleaning and processing. Whether you’re dealing with **messy datasets in CSV or XLSX format**, Data Duster ensures **clean, structured, and optimized data** in just a few clicks.
