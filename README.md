@@ -19,7 +19,7 @@ To run **Data Duster** locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Data-Duster.git
+git clone https://github.com/smaasui/Data-Duster.git
 
 # Navigate to the project directory
 cd Data-Duster
